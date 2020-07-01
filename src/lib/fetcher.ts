@@ -15,4 +15,4 @@ class Fetcher implements CanFetch {
     }
 }
 
-export { Fetcher }
+export { Fetcher, Header }
